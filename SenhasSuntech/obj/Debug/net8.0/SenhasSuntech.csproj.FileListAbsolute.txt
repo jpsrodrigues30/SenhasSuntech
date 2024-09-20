@@ -1,0 +1,14 @@
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\SenhasSuntech.exe
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\SenhasSuntech.deps.json
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\SenhasSuntech.runtimeconfig.json
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\SenhasSuntech.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\SenhasSuntech.pdb
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.AssemblyInfoInputs.cache
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.AssemblyInfo.cs
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.csproj.CoreCompileInputs.cache
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\refint\SenhasSuntech.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.pdb
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.genruntimeconfig.cache
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\ref\SenhasSuntech.dll
