@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SenhasSuntech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e3300b878959530d7d8f4d53bc131412838b7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de152600dacfdfd57f3573abb20e4101f43090ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("SenhasSuntech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SenhasSuntech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

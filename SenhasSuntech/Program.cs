@@ -22,20 +22,17 @@ namespace Generate4GPassword
 
             var private_key = _configuration["KEYS:PRIVATE_KEY"]?.ToString();
 
-            Console.WriteLine("Digite o número do IMEI (Completo): ");
-            string imei = Console.ReadLine();
-
-            if (imei == null)
-                throw new Exception("Imei é nulo");
-            if (imei.Length != 15)
-                throw new Exception("Digite o imei completo...");
+            string[] imei = ["867747070258569", "864454071220002", "867747070218365", "867747070241334", "867747070197973", "867747070256084"];
 
             Console.WriteLine($"Gerando senha para o imei {imei}...");
 
             if (private_key != null)
             {
-                string password = GenerateEncriptedPassword(imei, private_key);
-                Console.WriteLine($"SENHA PARA O IOT: {password}");
+                foreach(var item in imei)
+                {
+                    string password = GenerateEncriptedPassword(item, private_key);
+                    Console.WriteLine($"SENHA PARA O IOT {item}: {password}");
+                }
                 Console.ReadLine();
             }
             else
@@ -54,7 +51,7 @@ namespace Generate4GPassword
             int iterations = 10000;
             int numBytesResponse = 18;
 
-            var pbkdf2 = new Rfc2898DeriveBytes(combinedBytes, combinedBytes, iterations, HashAlgorithmName.SHA256);
+            var pbkdf2 = new Rfc2898DeriveBytes(combinedBytes, keyBytes, iterations, HashAlgorithmName.SHA256);
             using (pbkdf2)
             {
                 byte[] hashValues = pbkdf2.GetBytes(numBytesResponse);
@@ -62,12 +59,10 @@ namespace Generate4GPassword
                 StringBuilder hexString = new StringBuilder();
                 foreach(byte b in hashValues)
                 {
-                    hexString.Append(b.ToString("X2"));
+                    hexString.Append(b % 10);
                 }
 
-                var password = hexString.ToString().Substring(6, 18);
-
-                return password;
+                return hexString.ToString();
             }
         }
     }
