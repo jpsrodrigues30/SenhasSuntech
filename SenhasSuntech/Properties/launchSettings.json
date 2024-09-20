@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SenhasSuntech": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

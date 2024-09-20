@@ -12,3 +12,15 @@ C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\ref
 C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.pdb
 C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.genruntimeconfig.cache
 C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\ref\SenhasSuntech.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.sourcelink.json
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSuntech.csproj.AssemblyReference.cache
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\obj\Debug\net8.0\SenhasSu.730B3F96.Up2Date
+C:\Users\joao.4924\source\repos\SenhasSuntech\SenhasSuntech\bin\Debug\net8.0\appsettings.Development.json
